@@ -1,4 +1,4 @@
-# Travaux Pratiques en Python
+# projet et TP's en Python
 
 ## Informations
 
